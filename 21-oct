@@ -1,0 +1,286 @@
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main (String[] args){
+Scanner sc = new Scanner(Systrm.in);\
+int a = sc.nextInt();
+int b = sc.nextInt();
+int c = sc.nextInt();
+System.out.println(a);
+System.out.println(c);
+}
+}
+
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b = sc.nextInt();
+int c = sc.nextInt();
+System.out.println(a);
+System.out.println(c);
+}
+}
+
+
+import java.io.*;
+class Gfg{
+public static void mian(String[] args){
+System.out.println("Hello World");
+System.out.println("GeeksForGeeks");
+}
+}
+
+
+import java.io.*;
+class Gfg{
+public static void main(String[] args){
+System.out.println("Hello World");
+System.out.println("GeeksFor Geeks");
+}
+}
+
+# include<iostrem>
+int main(){
+int a,b;
+scanf("%d%d",&a,&b);
+printf("%d%d"a,b);
+return 0;
+}
+
+
+#include<iostream>;
+int main(){
+int a,b;
+scanf("%d%d"&a,&b);
+printf("%d%d",a,b);
+return 0;
+}
+
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner (System.in);
+int a = sc.nextInt();
+int b= sc.nextInt();
+int c = sc.nextInt();
+int temp = a;
+a=b;
+b= temp;
+System.out.println(a+""+b);
+}
+}
+
+
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b=sc.nextInt():
+int c= sc.nextInt();
+int temp = a;
+a=b;
+b= temp;
+System.out.println(a+" "+b);
+}
+}
+
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+double d = sc.nextDouble():
+int i = int(d);
+System.out.println(i);
+}
+}
+
+
+
+import java.io.*;
+import java.util.*;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+double d = sc.nextDouble();
+int i = int(d);
+System.out.println(i);
+}
+}
+
+
+String num = sc.nextLine();
+int n = Integer.parseInt(num);
+System.out.println(n*2);
+
+
+String num = sc.nextLine();
+int i = Integer.parseInt(num);
+System.out.println(i);
+
+import java.util.Scanner;
+class Gfg{
+public static void main(String[] args){
+Scanner sc = new Scanner(system.in);
+int a = sc.nextInt();
+double b = sc.nextDouble();
+long c = sc.nextLong();
+System.out.println(a);
+System.out.println(b);'
+System.out.println(c);
+}
+}
+
+
+int n = sc.nextInt();
+n = n+10;
+System.out.println(n);
+
+import java.io.*;
+import java.util.Scanner;
+class Gfg{
+public static void mian(String[] args){
+Scanner sc = new Scanner(System.in);
+float c = sc.nextFloat();
+float f = c+9;
+System.out.println(f);
+}
+}
+
+
+class Solution{
+public void utility(Scanner sc){
+String a = sc.nextLine();
+String b = sc.nextLine();
+System.out.println(a+" "+b);
+}
+}
+
+class Solution{
+public void utility(Scanner sc ){
+String a = sc.nextLine();
+String b = sc.nextLine();
+System.out.println(a+" " +b);
+}
+}
+
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+string s = sc.nextLine():
+string o = sc.nextLine();
+System.out.println(a+" "+b);
+}
+}
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+String a = sc.nextLine();
+String b= sc.nextLine();
+String sep = sc.nextLine();
+System.out.println(a+sep+b);
+}
+}
+
+class Solution{
+public static void main(String [] args){
+String a,b;
+System.out.println(a+b);
+}
+}
+
+class Solution{
+static int[] computeOperations(int x,int y){
+int q = x+y;
+int r = x-y;
+int z = x%y;
+return new int[] {q,r,z};
+
+
+class Solution{
+static int[] computeOperations(int x,int y){
+int q = x+y;
+int r = x-y;
+int z = x%y;
+return new int[] {q,r,z};
+
+class Solution{
+public String booleanOperations(boolean a,boolean b){
+boolean andresult = a&&b;
+boolean orresult = a||b;
+boolean notresult = !a;
+return andresult+" "+orresult+" "+notresult;
+}
+}
+
+
+class Solution{
+public String booleanoperations(boolean a,boolean b){
+boolean andresult = a&&b;
+boolean orresult = a||b;
+boolean notresult = !a;
+return andresult+" "+orresult+" "+notresult;
+}
+}
+
+
+class Solution{
+public int calculate(int a,int b,int c,int d){
+return ((a+b)/c)+d;
+}
+}
+
+class Solution{
+public int calculate(int a,int b,int c,int d){
+return ((a+b)/c)+d;
+}
+}
+
+class Solution{
+public int calculate(int a,int b,int c,int d){
+return ((a+b+/c)+d;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import java
