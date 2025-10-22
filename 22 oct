@@ -1,0 +1,330 @@
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b = sc.nextInt();
+System.out.println(a>>b);
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b = sc.nextInt();
+System.out.println(a<<b);
+}
+}
+
+class Solution{
+public int sumofFirstN(int n){
+return n*(n+1)/2;
+}
+}
+
+class Solution{
+public int sumofFirstN(int n){
+return n*(n+1)/2;
+}
+}
+
+class Solution{
+public int lastDigit(int n){
+return Math.abs(n%10);
+}
+}
+
+class Solution{
+public int lastdigit(int n){
+return Math.abs(n%10);
+}
+}
+public int lastdigit(int n){
+return Math.abs(n%10);}
+
+
+class Solution{
+public int daybefore(int d,int n){
+return ((d-n)%7+7)%7;}
+}
+
+class Solution{
+public int daybefore(int d,int n){
+return ((d-n)%7+7)%7;
+}
+}
+
+class Solution{
+public int nthTerm(int a,int n,int d){
+return a+(n-1)*d;
+}
+}
+
+class Solution{
+public int nthTerm(int a,int d,int n){
+return a+(n-1)*d;
+}
+}
+
+import java.util.Scanner;
+class Solution{
+public stativ void solve(){
+  Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b = sc.nextInt();
+int r =2;
+int nthTerm = a*(int)Math.pow(r,n-1);
+System.out.println(nthTerm);
+}
+}
+
+import java.util.Scanner;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+int b = sc.nextInt();
+int r=2;
+int nthTerm = a*(int)Math.pow(r,n-1);
+System.out.println(nthTerm);
+}
+}
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new   Scanner(System.in);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");}
+System.out.println("Number");
+}
+}
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");}
+System.out.println("Number");
+}
+}
+
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.im);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");
+}
+else{
+System.out.println("Number");}
+}
+}
+
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");
+}
+else{
+System.out.println("Number");
+}
+}
+}
+
+import java.util.*;
+public class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");
+}
+else if(n<10){
+  System.out.println("Small");
+} else {
+System.out.println("Numbers");
+}
+}
+
+import java.util.*;
+public class Solution{
+public static void solve(){
+Scanners sc = new Scanner(System.in);
+int n = sc.nextInt();
+if(n>100){
+System.out.println("Big");
+}
+else if(n<10){
+System.out.println("Small");
+} else {
+System.out.println("Numbers");
+}
+}
+}
+
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+if(a%3==0 && a%5 ==0){
+System.out.println("FizzBuzz");
+}
+else if(a%3 == 0){
+System.out.println("Fizz");}
+else if(a%5 == 0){
+System.out.println("Buzz");}
+else{
+System.out.println(a);}
+}
+}
+
+
+import java.util.*;
+public clas Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+if(a%3==0 && a%5==0){
+System.out.println("BizzFuzz");
+}
+else if(a%3==0){
+System.out.println("Fizz");}
+else if(a%5==0){
+System.out.println("Buzz");}
+else{
+System.out.println(a);}
+}
+}
+
+import java.util.*;
+class Solution{
+public static void main(String args[]){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+switch(a){
+case 1:
+System.out.println("One");
+break;
+case 2:
+System.out.println("Two");
+break;
+case 3:
+System.out.println("Three");
+break;
+case 4:
+System.out.println("Four");
+break;'
+case 5:
+System.out.println("Five");
+break;
+case 6:
+System.out.println("Six");
+break;
+case 7:
+System.out.println("Seven
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
