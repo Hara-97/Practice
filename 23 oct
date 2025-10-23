@@ -62,16 +62,244 @@ while(i>=1){
 System.out.println(n*i+" "):
 i--;}
 }
-}
 
-impoprt java.util.*;
+
+import java.util.*;
 class Solution{
 public static void main(String[] args){
-Scanner sc =  new Scanner(System.in);
-int n= sc
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+int count =0;
+while(n!=0)
+{
+n/=10;
+count++;}
+System.out.println(count);
+}
+}
 
 
+import java.util.*;
+class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+while(n!=0){
+n /=0;
+count++;}
+System.out.println(count);
+}
+}
 
-loops
+
+import java.util.Scanner;
+public class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in){
+int n =sc.nextInt();
+for(int i=1;i<n;i++){
+for(int j=1;j<i;j++){
+System.out.print("* ");
+}
+System.out.println();
+}
+}
+}
+
+
+import java.util.Scanner;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+for(int i=1;i<n;i++){
+for(int j=1;j<i;j++){
+System.out.print("* ");
+}
+System.out.println();}
+}
+}
+
+
+class Solution{
+public void printpattern(int n){
+for(int i=n;i<=1;i--){
+for(int j=1;j<=i;j++){
+System.out.print("* ");}
+System.out.println();
+}
+}
+}
+
+
+class Solution{
+public void printpattern(int n){
+for(int i=n;i<=1;i--){
+for(int j=1;j<=i;j++){
+System.out.print("* ");{
+System.out.println();}
+}
+}
+
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+String row = "* ".repeat(n).trim();
+for(int i=0;i<=n;i++){
+System.out.println(row);}
+}
+}
+
+import java.util.*;
+class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+String row = "* ".repaeta(n).trim();
+for(int i=0;i<=n;i++){
+System.out.println(row)}
+}
+}
+
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+for(int i=0;i<=n;i++){
+for(int j =0;j<=n;j++){
+System.out.print("* ");
+}
+System.out.println();
+}}}
+
+import java.util.*;
+public class Solution{
+public static void main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+for(int i=0;i<=n;i++){
+for(int j=0;j<=n;j++){
+System.out.print("* ");
+}
+System.out.println();}
+}
+}
+
+class Solution{
+public int factorial(int n){
+int result =1;
+for(int i=2;i<=n;i++){
+result *=i;}
+return result;
+}
+}
+
+
+class Solution{
+public int factorial(int n){
+int result =1;
+for(int i=2;i<=n;i++){
+result*=i;
+}
+return result;
+}
+}
+
+class Solution{
+public int computeGcd(int a,int b){
+while(b!=0){
+int temp =b;
+b = a%b;
+a = temp;
+}
+return a;
+}
+}
+
+class Solution{
+public int computeGCD(int a,int b){
+while(b!=0){
+int temp =b;
+b = a%b;
+a = temp;}
+return a;
+}
+}
+
+class Solution{
+public static claculateLCM(int a,int b){
+int gcd =a;
+int temp =b;
+while(temp !=0){
+int t = temp;
+temp = gcd%temp;
+gcd =t;}
+return (a+b)/gcd;}
+}
+
+
+class Solution{
+public static calculateLCM(int a,int b){
+int gcd =a;
+int temp =b;
+while(temp !=0){
+int t = temp;
+temp = gcd%temp;
+gcd =t;}
+return (a+b)/temp;
+}
+}
+
+class Solution{
+public class calculateLCM(int a,int b){
+int gcd =a;
+int temp =b;
+while(temp !=0){
+int t =temp;
+temp =gcd%temp;
+gcd =t;
+}
+return (a+b)/temp;
+}
+}
+
+
+class Solution{
+void printDivisors(int n){
+for(int i=1;i<=n;i++){
+if(n%i==0){
+System.out.println(i+" ");
+}
+}
+}
+}
+
+class Solution{
+void printDivisors(int n){
+for(int i=1;i<=n;i++){
+if(n%i==0){
+System.out.println(i+" ");}
+}
+}
+}
+
+class Solution{
+public static int nextPrime(int n)
+int num = n+1;
+if(isPrime(num)){
+return num;
+num++;
+
+class Solution{
+public static int nextPrime(int n){
+int num =n+1;
+if(isPrime()){
+return num;
+num++;
 
 
