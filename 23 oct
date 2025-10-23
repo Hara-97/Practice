@@ -1,0 +1,77 @@
+class Solution{
+public void printevenIndices(String s){
+for(int i;i<s.length();i+=2){
+System.out.println(s.charAt(i));
+}
+}
+}
+
+class Solution{
+public void printevenIndices(String s){
+for(int i;i<s.length();i+=2){
+System.out.println(s.charAt(i));}
+}
+}
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int x = sc.nextInt();
+while(x>0){
+System.out.println(x+" ");
+x--;}
+}
+}
+
+import java.util.*;
+class Solution{
+public static void solve(){
+Scanner sc = new Scanner(System.in);
+int x = sc.nextInt();
+while(x>0){
+System.out.println(x+" ");
+x--;}
+}
+}
+
+
+class Solution{
+public void calculateMultiple(int n){
+int i=10;
+while(i>=1){
+System.out.println(n*i+" ");
+i--;}
+}
+}
+
+
+class Solution{
+public void calculateMultiples(int n){
+int i=10;
+if(i>=1){
+System.out.println(n*i+" ");
+x--;
+}
+}
+
+class Solution{
+public void calculatemultiple(int n){
+int i=10;
+while(i>=1){
+System.out.println(n*i+" "):
+i--;}
+}
+}
+
+impoprt java.util.*;
+class Solution{
+public static void main(String[] args){
+Scanner sc =  new Scanner(System.in);
+int n= sc
+
+
+
+loops
+
+
